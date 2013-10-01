@@ -13,7 +13,7 @@ Code(s) perm.:ENAD25079107, POMG26117702
 Modifie: 2013/09/25
 *******************************************************/ 
 
-package com.clientformes.businesslogic; 
+package com.clientformes.gui; 
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

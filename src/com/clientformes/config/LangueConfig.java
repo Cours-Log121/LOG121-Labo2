@@ -1,4 +1,4 @@
-package com.clientformes.businesslogic;
+package com.clientformes.config;
 /******************************************************
 Cours:  LOG121
 Projet: Squelette du laboratoire #1
